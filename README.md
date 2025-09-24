@@ -1,8 +1,6 @@
 # 👋 Hi ! I'm Rémy ! 
 
-I'm a Junior Front-End Developer focused on creating accessible web applications. 
-
-Currently honing my skills in TYPESCRIPT !
+I do things.
 
 ## 🛠 Skills and Technologies
 
